@@ -27,6 +27,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE:
+```
 map.html
 
 <html>
@@ -52,7 +53,7 @@ map.html
 </center>    
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/82661678-fa01-4d69-9d52-1437c0bf282c)
 
